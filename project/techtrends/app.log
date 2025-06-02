@@ -1,0 +1,74 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3111
+ * Running on http://172.20.10.6:3111
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:Article 2020 CNCF Annual Report retrieved!
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:30] "GET /1 HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:Article KubeCon + CloudNativeCon 2021 retrieved!
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:32] "GET /2 HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:Article Kubernetes v1.20 Release Notes retrieved!
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:34] "GET /3 HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:18:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3111
+ * Running on http://172.20.10.6:3111
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:19:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:Article "2020 CNCF Annual Report" retrieved!
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:02] "GET /1 HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:Article "KubeCon + CloudNativeCon 2021" retrieved!
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:04] "GET /2 HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:Article "Kubernetes v1.20 Release Notes" retrieved!
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:05] "GET /3 HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:20:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3111
+ * Running on http://172.20.10.6:3111
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:24:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:24:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:24:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:Article "2020 CNCF Annual Report" retrieved!
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:00] "GET /1 HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:Article "KubeCon + CloudNativeCon 2021" retrieved!
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:03] "GET /2 HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:The "About Us" page was retrieved
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:05] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:08] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:Article "starts and moon" was created!
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:23] "[32mPOST /create HTTP/1.1[0m" 302 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.6 - - [16/Oct/2022 00:25:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
